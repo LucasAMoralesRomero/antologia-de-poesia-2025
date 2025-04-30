@@ -1,5 +1,5 @@
 [[headers]]
-  for = "/lib/book/antologia-poetica-2025.pdf"
+  for = "/lib/book/antologia-poetica-2025-v3.pdf"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 
